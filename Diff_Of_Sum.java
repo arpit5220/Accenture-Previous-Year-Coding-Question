@@ -1,6 +1,6 @@
 import java.util.*;
 
-class 01Diff_Of_Sum
+class Diff_Of_Sum
 {
     public static void main(String[] args) {
       
